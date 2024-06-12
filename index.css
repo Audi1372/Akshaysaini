@@ -1,0 +1,9 @@
+#parent {
+  display: flex;
+}
+#child {
+}
+
+#heading {
+  color: red;
+}
